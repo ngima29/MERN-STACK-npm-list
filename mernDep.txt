@@ -1,0 +1,22 @@
+## Front end 
+npx create-react-app my-app
+npm i react-router-dom
+npm i @reduxjs/toolkit
+npm i react-redux
+
+npm i react-router-dom @reduxjs/toolkit react-redux  
+
+## backend
+
+npm i express
+npm i mongoose
+npm i cors
+npm i multer
+npm i nodemon
+npm i nodemailer
+npm i jsonwebtoken
+npm i dotenv
+npm i bcrypt
+  
+
+npm i express mongoose cors multer nodemon bcrypt jsonwebtoken nodemailer 
